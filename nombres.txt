@@ -2,4 +2,4 @@ Hola desde la rama principal despues de rebase
 
 Marisol Benitez desde la rama Marisol
 
-escrito desde conflicto
+escrito desde conflicto x2
